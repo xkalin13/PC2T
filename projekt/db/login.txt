@@ -1,0 +1,3 @@
+DB_URL=jdbc:sqlite:db/databaze.db
+DB_USER=
+DB_PASS=
